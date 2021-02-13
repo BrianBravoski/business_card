@@ -1,0 +1,31 @@
+body{
+    background-image: url(../images/background.png);
+    background-size: auto;
+    background-attachment: fixed;
+    margin-left: 50px;
+   
+}
+
+}
+.portfolio{
+    font-size:  16px;
+    font-family: Helvetica,Arial ;
+    font-weight: bold;
+    margin: 50px;
+
+}
+#hello{
+    color:#1e9d9d;
+    margin-left:50px;
+   
+}
+.name{
+    font-size: 80px;
+}
+
+@media (max-width:576px) {
+    body{
+    background-image: url(../images/Group3.svg);
+    background-size: contain;
+    height:100%;  
+}
